@@ -52,6 +52,8 @@ namespace _01_Api.Controllers
             temaTabla.id_disco = tema.id_disco;
             temaTabla.link = tema.link; 
 
+
+
             return Ok(temaTabla);
         }
 

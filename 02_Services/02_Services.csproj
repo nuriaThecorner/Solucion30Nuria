@@ -58,6 +58,7 @@
     <Compile Include="DiscograficaServices\DiscograficasService.cs" />
     <Compile Include="DiscosServices\DiscosService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TemasServices\TemaService.cs" />
     <Compile Include="TemasServices\TemasService.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -94,8 +94,9 @@ namespace _02_Services.TemasServices
                 //buscada.OrderDetailID = tema.OrderDetailID;
 
                 //buscada.id = tema.id;
-                buscada.id = tema.id;
-                buscada.id = tema.id;
+                buscada.id_disco = tema.id_disco;
+                buscada.nombre = tema.nombre;
+                buscada.link = tema.link;
 
 
                 //Guardamos cambios:
